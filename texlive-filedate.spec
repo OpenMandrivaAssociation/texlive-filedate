@@ -1,11 +1,11 @@
-# revision 28076
+# revision 29529
 # category Package
 # catalog-ctan /macros/latex/contrib/filedate
-# catalog-date 2012-10-25 20:05:22 +0200
+# catalog-date 2012-11-14 11:01:29 +0100
 # catalog-license lppl
-# catalog-version 0.3
+# catalog-version 0.4
 Name:		texlive-filedate
-Version:	0.3
+Version:	0.4
 Release:	1
 Summary:	Access and compare info and modification dates
 Group:		Publishing
@@ -35,12 +35,14 @@ if the latter is available.
 
 #-----------------------------------------------------------------------
 %files
+%{_texmfdistdir}/tex/latex/filedate/filedate.RLS
 %{_texmfdistdir}/tex/latex/filedate/filedate.sty
 %doc %{_texmfdistdir}/doc/latex/filedate/Announce.txt
 %doc %{_texmfdistdir}/doc/latex/filedate/README
 %doc %{_texmfdistdir}/doc/latex/filedate/SrcFILEs.txt
 %doc %{_texmfdistdir}/doc/latex/filedate/filedate.pdf
 #- source
+%doc %{_texmfdistdir}/source/latex/filedate/fdatechk.tex
 %doc %{_texmfdistdir}/source/latex/filedate/filedate.tex
 %doc %{_texmfdistdir}/source/latex/filedate/srcfiles.tex
 
