@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version 0.4
 Name:		texlive-filedate
-Version:	0.4
-Release:	10
+Version:	20130327
+Release:	1
 Summary:	Access and compare info and modification dates
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/filedate
