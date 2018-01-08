@@ -5,7 +5,7 @@
 # catalog-license lppl
 # catalog-version 0.4
 Name:		texlive-filedate
-Version:	20130327
+Version:	20170414
 Release:	1
 Summary:	Access and compare info and modification dates
 Group:		Publishing
