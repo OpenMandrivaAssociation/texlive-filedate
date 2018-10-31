@@ -6,7 +6,7 @@
 # catalog-version 0.4
 Name:		texlive-filedate
 Version:	20180303
-Release:	1
+Release:	2
 Summary:	Access and compare info and modification dates
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/filedate
