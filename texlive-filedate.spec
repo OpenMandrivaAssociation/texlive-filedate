@@ -1,6 +1,6 @@
 Name:		texlive-filedate
 Version:	29529
-Release:	1
+Release:	2
 Summary:	Access and compare info and modification dates
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/filedate
