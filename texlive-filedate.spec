@@ -3,7 +3,7 @@ Version:	29529
 Release:	2
 Summary:	Access and compare info and modification dates
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/filedate
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/filedate
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/filedate.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/filedate.doc.r%{version}.tar.xz
